@@ -4,7 +4,7 @@
 
 ## 使用方法
 
-- 在右边点击Release，或直接点击以下链接跳转到下载页面
+- 在右边点击Releases，或直接点击以下链接跳转到下载页面
 
 - <https://github.com/HUIMANBAN/sic-streaming-pack-1.0/releases/tag/v1.0.0>
 
