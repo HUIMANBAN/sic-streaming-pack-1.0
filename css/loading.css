@@ -1,0 +1,134 @@
+.social-medias {
+    background-color: orange;
+    height: 3.3rem;
+    width: 20%;
+    display: flex;
+    position: absolute;
+    bottom: 5rem;
+    padding-left: 1rem;
+    right: 0;
+}
+
+.social-medias img {
+    padding-top: 0.8rem;
+    margin-left: 1rem;
+
+}
+
+.social-medias .imgs {
+    display: flex;
+
+}
+
+.social-medias p {
+    font-family: 'pingfangsc-regular';
+    margin-left: 2rem;
+    margin-top: 0.85rem;
+    font-size: 22px;
+    color: floralwhite;
+}
+
+
+
+.social-media-box {
+    height: 3rem;
+    width: 3rem;
+}
+
+
+.social-media-box-douyin {
+    margin-top: 0.1rem;
+}
+
+
+.top {
+    color: white;
+    /* background-color: black; */
+    /* background-color: rgba(91, 139, 240,0.2); */
+    height: 4.5rem;
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+    margin-bottom: 4rem;
+}
+
+.top .act-name {
+    font-family: "pingfangsc-medium";
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1.3rem;
+    font-size: 3.5rem;
+    text-align: center;
+    width: 70%;
+}
+
+.countdown {
+    margin-top: 14rem;
+    color: white;
+    width: 100%;
+    font-size: 4rem;
+    text-align: center;
+}
+
+.countdown .countdownTitle {
+    font-family: "pingfangsc-thin";
+    margin-top: 0;
+    padding-top: 0.3rem;
+    margin-bottom: 0;
+}
+
+.countdown .countdowntimer {
+    font-family: "pingfangsc-medium";
+}
+
+.poster {
+    max-height: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 85%;
+}
+
+.poster-container {
+    display: flex;
+    width: 100%;
+    text-align: center;
+}
+
+.poster-container .left {
+    padding-left: 1rem;
+    padding-top: 1rem;
+    width: 70%;
+}
+
+.poster-container .right {
+    padding-left: 0.5rem;
+    width: 25%;
+}
+
+
+.poster-border {
+    /* border-color: #864d8b;
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 3px; */
+}
+
+
+.act-info {
+    color: white;
+    font-family: "pingfangsc-thin";
+    width: 100%;
+    font-size: 1.8rem;
+    padding-top: 2rem;
+}
+
+body {
+    /* background-color: #373940; */
+    background-color: black;
+}
+
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}

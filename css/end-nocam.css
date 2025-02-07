@@ -1,0 +1,62 @@
+body {
+    /* background-color: #678aed; */
+    background-color: #4371db;
+}
+
+.container {
+    margin-top: 6rem;
+    padding-top: 1rem;
+    width: 100%;
+    text-align: center;
+}
+
+
+.container p {
+    font-family: "pingfangsc-thin";
+    font-size: 6rem;
+    color: white;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.container .title {
+    font-family: "pingfangsc-regular";
+}
+
+.container .sic-info {
+    margin-top: 1rem;
+}
+
+.container .sic-info p {
+    margin-top: 1rem;
+    font-size: 3.5rem;
+}
+
+
+.sic-info-social-medias {
+    justify-content: center;
+    display: flex;
+    margin-top: 1rem;
+}
+
+.social-media-box {
+    margin-right: 0.5rem;
+    height: 5rem;
+    width: 5rem;
+    margin-left: 0.5rem;
+}
+
+
+.social-media-box-douyin {
+    margin-top: 0.5rem;
+    margin-right: 0rem;
+}
+
+.panda {
+    justify-content: center;
+}
+
+.panda img {
+    margin-top: 2rem;
+    width: 12rem;
+}

@@ -1,0 +1,9 @@
+body {
+    /* background-color: #678aed; */
+    background-color: #4371db;
+}
+
+.container {
+    top: 30rem;
+    position: absolute;
+}

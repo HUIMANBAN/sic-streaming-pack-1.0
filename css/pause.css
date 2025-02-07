@@ -1,0 +1,24 @@
+.container {
+    margin-top: 30rem;
+    text-align: center;
+    color: white;
+    font-family: "pingfangsc-medium";
+    position: absolute;
+    width: 100%;
+}
+
+.container h1 {
+    width: 100%;
+    font-size: 5rem;
+}
+
+.container h2 {
+    width: 100%;
+    font-size: 4rem;
+}
+
+
+body {
+    /* background-color: #373940; */
+    background-color: black;
+}

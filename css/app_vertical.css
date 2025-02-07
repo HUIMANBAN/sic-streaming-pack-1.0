@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    width: 1080px;
+    height: 1920px;
+}
+
+.bottom {
+    height: 160px !important;
+}
+
+
+
+.bottom img {
+    margin-top: 32px;
+    height: 96px !important;
+}

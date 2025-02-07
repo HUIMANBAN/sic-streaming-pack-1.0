@@ -1,0 +1,100 @@
+body {
+    /* background-color: #678aed; */
+    background-color: #4371db;
+}
+
+.top {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 8rem;
+    margin-top: 2rem;
+    background-image: url("/image/panda-loop.png");
+    background-size: 1920px;
+    background-repeat: no-repeat;
+    /* background-color: rgba(0, 0, 0, 0.2); */
+    text-align: center;
+}
+
+.top p {
+    margin-top: 0.5rem;
+    font-size: 5rem;
+    margin-bottom: 0;
+    font-family: "pingfangsc-thin";
+    color: rgb(255, 255, 255, 0.7);
+}
+
+
+.container {
+    margin-top: 6rem;
+    padding-top: 6rem;
+    display: flex;
+    width: 100%;
+    text-align: center;
+}
+
+.container .left {
+    width: 70%;
+}
+
+.container .right {
+    position: absolute;
+    right: 6.5rem;
+    padding-top: 2rem;
+    width: 30%;
+}
+
+.container .right p {
+    font-family: "pingfangsc-thin";
+    font-size: 5rem;
+    text-align: left;
+    color: white;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.container .right .title {
+    font-family: "pingfangsc-regular";
+
+}
+
+.container .right .sic-info {
+    margin-top: 1rem;
+    text-align: left;
+}
+
+.container .right .sic-info p {
+    margin-top: 1rem;
+    font-size: 2.5rem;
+}
+
+
+.sic-info-social-medias {
+    display: flex;
+    margin-top: 1rem;
+}
+
+.social-media-box {
+    margin-right: 0.5rem;
+    height: 5rem;
+    width: 5rem;
+    margin-left: 0.5rem;
+}
+
+
+.social-media-box-douyin {
+    margin-top: 0.5rem;
+    margin-right: 0rem;
+}
+
+.cam-border {
+    width: 960px;
+    height: 540px;
+    border-color: #864d8b;
+    /* border-radius: 10px; */
+    border-style: solid;
+    border-width: 8px;
+    margin-left: auto;
+    margin-right: auto;
+}

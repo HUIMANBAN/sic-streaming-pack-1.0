@@ -1,0 +1,51 @@
+.bg {
+    background-image: url(../asset/scoreboard.png);
+    background-size: 1920px;
+    background-repeat: no-repeat;
+}
+
+
+.team {
+    font-size: 8vw;
+    font-family: "pingfangsc-regular";
+    color: white;
+    margin: 0;
+    text-align: center;
+
+}
+
+.first-team {
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 650px;
+}
+
+.second-team {
+    position: absolute;
+    margin-top: 310px;
+    margin-left: 650px;
+}
+
+
+
+.score {
+    font-size: 8vw;
+    font-family: "pingfangsc-medium";
+    color: white;
+    margin: 0;
+    text-align: right;
+}
+
+.first-score {
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 1200px;
+
+}
+
+
+.second-score {
+    position: absolute;
+    margin-top: 310px;
+    margin-left: 1200px;
+}

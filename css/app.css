@@ -1,0 +1,63 @@
+body {
+    margin: 0;
+    /* height: 1080px; */
+    /* min-height: 1080px; */
+}
+
+.bottom {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 5rem;
+    background-color: white;
+    text-align: center;
+}
+
+
+.bottom h2 {
+    color: black;
+}
+
+.bottom img {
+    margin-top: 1.2rem;
+    height: 3rem;
+}
+
+.bottom .left_logo {
+    position: absolute;
+    left: 1.5rem;
+}
+
+
+.bottom .right_logo {
+    position: absolute;
+    right: 1.5rem;
+}
+
+.bottom-topline {
+    position: absolute;
+    background-color: orange;
+    height: 0.5rem;
+    width: 100%;
+}
+
+@font-face {
+    font-family: 'pingfangsc-light';
+    src: url(../font/pingfangsc-light.woff2);
+}
+
+@font-face {
+    font-family: 'pingfangsc-medium';
+    src: url(../font/pingfangsc-medium.woff2);
+}
+
+@font-face {
+    font-family: 'pingfangsc-thin';
+    src: url(../font/pingfangsc-thin.woff2);
+}
+
+@font-face {
+    font-family: 'pingfangsc-regular';
+    src: url(../font/pingfangsc-regular.woff2);
+}

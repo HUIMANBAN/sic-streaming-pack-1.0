@@ -1,0 +1,16 @@
+.bg {
+    background-image: url(../asset/pause-inscreen.png);
+    background-size: 1920px;
+    background-repeat: no-repeat;
+}
+
+.text {
+    position: absolute;
+    width: 100%;
+    margin: 0;
+    text-align: center;
+    margin-top: 10rem;
+    font-size: 9vw;
+    font-family: "pingfangsc-medium";
+    color: white;
+}

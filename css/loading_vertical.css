@@ -1,0 +1,49 @@
+.top,
+.countdown,
+.act-info {
+    position: relative;
+    z-index: 20;
+}
+
+
+.root {
+    width: 1080px;
+    height: 1920px;
+    background-image: url('../upload/poster.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.black-glass-cover {
+    background-color: rgba(0, 0, 0, 0.65);
+    position: absolute;
+    width: 100%;
+    height: 1760px;
+    z-index: 10;
+}
+
+.top {
+    padding-top: 300px;
+    height: auto;
+}
+
+
+.act-name {
+    font-size: 5rem !important;
+}
+
+.act-info {
+    font-family: "pingfangsc-medium" !important;
+    font-size: 5rem !important;
+}
+
+.countdown{
+    font-size: 5rem !important;
+}
+
+.countdown .countdowntimer{
+    font-family: "pingfangsc-medium" !important;
+}
+.countdown .countdownTitle{
+    font-family: "pingfangsc-medium" !important;
+}

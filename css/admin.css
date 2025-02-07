@@ -1,0 +1,18 @@
+
+td {
+    padding-left: 2rem;
+    padding-right: 2rem;
+    border: 1px solid #000;
+}
+
+.setting-title{
+    font-weight: bold;
+}
+
+.error {
+    color: orangered;
+}
+
+.success {
+    color: green;
+}
