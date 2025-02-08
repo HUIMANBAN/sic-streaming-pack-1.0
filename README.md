@@ -7,9 +7,9 @@
 
 - 在右边点击Releases，或直接点击以下链接跳转到下载页面
 
-- <https://github.com/HUIMANBAN/sic-streaming-pack-1.0/releases/tag/v1.0.0>
+- <https://github.com/HUIMANBAN/sic-streaming-pack-1.0/releases>
 
-- 找到 sic-streaming-pack-1.0.0-windows.zip 并下载
+- 找到最新版本的 sic-streaming-pack-1.0.0-windows.zip 并下载
 
 - 解压后按照里面的 README.txt 文件使用
 
